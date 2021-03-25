@@ -65,7 +65,7 @@ pylint-plugin-utils==0.6
 pyrsistent==0.15.7
 python-dateutil==2.8.1
 pytz==2020.1
-PyYAML==5.3.1
+PyYAML==5.4
 regex==2020.2.20
 requests==2.22.0
 rsa==3.4.2
